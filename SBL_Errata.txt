@@ -1,0 +1,72 @@
+﻿-Mt 3:16c SBL incorrectly cites RP as reading ἠνεῴχθησαν αὐτῷ; it actually reads ἀνεῴχθησαν αὐτῷ.
+-Mt 13:28 SBL cites the RP and NIV readings without accentuation.
+-Mt 13:54 SBL does not capitalize the word at the beginning of a paragraph.
+-Mt 25:1 SBL cites RP as reading ἀυτῶν, when the accentuation should be αὐτῶν.
+-Mt 25:7 SBL cites RP as reading ἀυτῶν, when the accentuation should be αὐτῶν.
+-Mt 26:60 SBL indexes the variant in this verse as occurring in 26:60-61, but in SBL, it only occurs in 26:60 (it does, however, overlap with the verse boundary as it is placed in RP).
+-Mt 27:24 SBL does not capitalize the word at the beginning of a paragraph.
+-Mk 1:1 SBL incorrectly cites RP as reading υἱοῦ τοῦ θεοῦ; it actually reads χριστοῦ υἱοῦ τοῦ θεοῦ (the apparatus should have a preceeding "+").
+-Mk 1:13 SBL incorrectly cites RP as reading τεσσεράκοντα; it actually reads τεσσαράκοντα.
+-Mk 3:19 (3:20 SBL) SBL incorrectly cites RP as reading ἔρχεται; it actually reads ἔρχονται.
+-Mk 4:37 SBL cites RP as reading γεμίζεσθα; it actually reads γεμίζεσθαι.
+-Mk 6:33 SBL marks a textual variant on the final αὐτοῖς in the text, but there is no corresponding entry in the apparatus. The entry should indicate that RP adds καὶ συνῆλθον πρὸς αὐτόν, while WH, Treg, NIV omit.
+-Mk 10:4 SBL cites RP as reading Μωϋσῆς; it actually reads Μωσῆς.
+-Mk 10:47 SBL cites RP as reading ὑιὸς, when the accentuation should be υἱὸς.
+-Mk 11:24 SBL cites RP as reading ἂν προσευχόμενοιαἰτῆσθε, when the spacing should be ἂν προσευχόμενοι αἰτῆσθε.
+-Mt 11:25 SBL does not capitalize the word at the beginning of a paragraph.
+-Mt 12:24 SBL does not capitalize the word at the beginning of a paragraph (the error is repeated in the apparatus).
+-Mt 13:9 SBL does not capitalize the word at the beginning of a paragraph.
+-Lk 2:33 SBL does not capitalize the word at the beginning of a paragraph.
+-Lk 6:2 SBL cites RP as reading εἶπαν αὐτοῖς; it actually reads εἶπον αὐτοῖς.
+-Lk 6:5 SBL cites Treg RP as reading ὁ υἱὸς τοῦ ἀνθρώπου τοῦ σαββάτου; Treg RP actually read ὁ υἱὸς τοῦ ἀνθρώπου καὶ τοῦ σαββάτου.
+-Lk 9:9 SBL cites RP as reading ὁ Ἡρῴδης; it actually reads Ἡρῴδης.
+-Lk 9:56 SBL cites RP as reading ὑιὸς, when the accentuation should be υἱὸς.
+-Lk 18:13 SBL cites RP as reading ἔτυπτε; it actually reads ἔτυπτεν.
+-Lk 19:16 SBL cites RP as reading προσηργάσατο; it actually reads προσειργάσατο.
+-Lk 19:35 SBL cites RP as omitting αὐτῶν; it actually substitutes ἑαυτῶν.
+-Lk 22:19-20 SBL cites RP as reading ἐκχυννόμενον; it actually reads ἐκχυνόμενον.
+-Lk 22:49 SBL cites RP as reading εἶπαν αὐτῷ; it actually reads εἶπον αὐτῷ.
+-Jn 1:39 SBL cites RP as reading ἦλθαν; it actually reads ἦλθον.
+-Jn 4:21 SBL cites RP as reading πίστευέ; it actually reads πίστευσόν.
+-Jn 5:10 SBL cites RP as reading κράβαττον; it actually reads κράββατον.
+-Jn 6:44 SBL cites RP as reading ἐμέ and Treg as reading με; RP actually reads με, and Treg actually reads ἐμέ.
+-Jn 8:41 SBL cites RP as reading Εἶπαν; it actually reads Εἶπον.
+-Jn 10:32 SBL cites RP as reading λιθάζετε ἐμὲ; it actually reads λιθάζετέ με.
+-Jn 14:16 SBL cites RP as reading ᾖ μένῃ; it actually reads μένῃ (so the "+" should be removed from the RP reading).
+-Ac 4:9 SBL marks a textual variant at the final σέσωσται in the text, but does not record any corresponding variation in the apparatus. All of the cited editions appear to agree here.
+-Ac 5:19 SBL cites Treg RP as reading ἤνοιξε; Treg RP actually read ἤνοιξεν.
+-Ac 7:22 SBL cites RP as reading Μωϋσῆς; it actually reads Μωσῆς.
+-Ac 15:7 SBL cites RP as reading ὑμῖν; it actually reads ἡμῖν.
+-Ac 15:33 SBL cites RP as reading ἀποστείλαντας αὐτούς ἀποστόλους; it actually reads ἀποστόλους (the "+" should be removed from the RP reading).
+-Ac 18:3 SBL cites RP as reading ἠργάζετο; it actually reads εἰργάζετο.
+-Ac 20:3 SBL cites RP as reading ἐπιβουλῆς αὐτῷ αὐτῷ ἐπιβουλῆς; it actually reads αὐτῷ ἐπιβουλῆς (the "+" should be removed from the RP reading).
+-Ac 21:13 SBL cites RP as reading Ἀπεκρίθη τότε; it actually reads Ἀπεκρίθη τε.
+-Ac 22:24 SBL cites RP as reading εἰσάγεσθαι; it actually reads ἄγεσθαι.
+-Ac 23:27 SBL cites RP as reading ἐξειλάμην; it actually reads ἐξειλόμην.
+-Ro 2:8 SBL cites Treg NIV RP as reading ἀπειθοῦσι; Treg NIV RP actually read ἀπειθοῦσιν.
+-Ro 7:18 SBL cites RP as reading οὔ οὐχ εὑρίσκω; it actually reads οὐχ εὑρίσκω (the "+" should be removed from the RP reading).
+-Ro 9:15 SBL cites RP as reading Μωϋσεῖ; it actually reads Μωϋσῇ.
+-Ro 11:7 SBL does not capitalize the word at the beginning of a paragraph.
+-1Co 9:2 SBL cites RP as reading τῆς μου; it actually reads τῆς ἐμῆς.
+-1Co 14:26 SBL cites RP as reading γλῶσσαν ἀποκάλυψιν ἔχει; it actually reads γλῶσσαν ἔχει, ἀποκάλυψιν
+-1Co 16:10 SBL cites RP as reading κἀγώ; it actually reads καὶ ἐγώ.
+-2Co 3:16 SBL cites RP as reading δὲ ἂν; it actually reads δ᾽ ἂν.
+-Php 1:16 SBL indexes the variant in this verse as occurring in 1:16-17, but it only occurs in this verse (it is certainly connected with the variant in the next verse, but that variant is also restricted to its own verse).
+-Php 3:16 SBL cites RP as reading ἀυτὸ, when the accentuation should be αὐτὸ.
+-Php 4:23 SBL cites RP as reading Ἀμην, when the accentuation should be Ἀμήν.
+-2Th 2:12 SBL cites RP as reading ἅπαντες and Treg as reading πάντες; RP actually reads πάντες, and Treg reads ἅπαντες.
+-2Th 3:12 SBL cites RP as reading Χριστου, when the accentuation should be χριστοῦ.
+-1Ti 5:23 SBL does not capitalize the word at the beginning of a paragraph.
+-Tit 2:4 SBL cites NIV RP as reading σωφρονίζωσι; NIV RP actually read σωφρονίζωσιν.
+-Heb 4:2 SBL cites RP as reading συγκεκερασμένους; it actually reads συγκεκραμένους. WH also has the orthographic subvariant συνκεκερασμένους.
+-Heb 12:3 SBL cites RP as reading ἀυτὸν, when the accentuation should be αὐτὸν.
+-1Pe 3:4 SBL cites RP as reading πραέως; it actually reads πρᾳέος.
+-1Pe 4:9 SBL incorrectly cites RP as reading γογγυσμοῦ γογγυσμῶν; it actually reads γογγυσμῶν (the "+" should be removed from the RP reading).
+-1Jn 2:29 SBL is printed with a paragraph starting at this verse, but the XML file does not start a new <p> element before this verse.
+-Jude 1:22 SBL indexes the variant concerning ἐλεᾶτε at 1:22-23, but it only occurs in v. 22. (Of course, the next variant in this verse does cross the verse boundary, so that may be the reason for the use of a single index.)
+-Re 8:12 SBL cites RP as reading τὸ τρίτον αὐτῆς ἡ ἡμέρα μὴ φάνῃ; it actually reads τὸ τρίτον αὐτῆς μὴ φάνῃ ἡ ἡμέρα.
+-Re 11:2 SBL cites RP as reading τεσσεράκοντα; it actually reads τεσσαράκοντα.
+-Re 12:3 SBL cites RP as reading πυρρὸς; it actually reads πυρὸς.
+-Re 13:5 SBL cites RP as reading τεσσεράκοντα; it actually reads τεσσαράκοντα.
+-Re 13:14 SBL cites RP as reading μαχαίρης; it actually reads μαχαίρας.
+-Re 18:3 SBL cites RP as reading πέπτωκαν; it actually reads πεπτώκασιν.
