@@ -30,6 +30,7 @@
 -Jn 4:21 SBL cites RP as reading πίστευέ; it actually reads πίστευσόν.
 -Jn 5:10 SBL cites RP as reading κράβαττον; it actually reads κράββατον.
 -Jn 6:44 SBL cites RP as reading ἐμέ and Treg as reading με; RP actually reads με, and Treg actually reads ἐμέ.
+-Jn 8:29 SBL cites RP as reading ὁ πατήρ; RP actually reads μόνον ὁ πατήρ (the apparatus should have a preceeding "+").
 -Jn 8:41 SBL cites RP as reading Εἶπαν; it actually reads Εἶπον.
 -Jn 10:32 SBL cites RP as reading λιθάζετε ἐμὲ; it actually reads λιθάζετέ με.
 -Jn 14:16 SBL cites RP as reading ᾖ μένῃ; it actually reads μένῃ (so the "+" should be removed from the RP reading).
