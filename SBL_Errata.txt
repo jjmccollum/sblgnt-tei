@@ -32,6 +32,7 @@
 -Jn 6:44 SBL cites RP as reading ἐμέ and Treg as reading με; RP actually reads με, and Treg actually reads ἐμέ.
 -Jn 8:29 SBL cites RP as reading ὁ πατήρ; RP actually reads μόνον ὁ πατήρ (the apparatus should have a preceeding "+").
 -Jn 8:41 SBL cites RP as reading Εἶπαν; it actually reads Εἶπον.
+-Jn 10:13 SBL cites the first word of the RP reading as Ὁδὲ; it should be Ὁ δὲ.
 -Jn 10:32 SBL cites RP as reading λιθάζετε ἐμὲ; it actually reads λιθάζετέ με.
 -Jn 14:16 SBL cites RP as reading ᾖ μένῃ; it actually reads μένῃ (so the "+" should be removed from the RP reading).
 -Ac 4:9 SBL marks a textual variant at the final σέσωσται in the text, but does not record any corresponding variation in the apparatus. All of the cited editions appear to agree here.
