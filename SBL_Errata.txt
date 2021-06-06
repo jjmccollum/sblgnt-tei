@@ -5,7 +5,7 @@
 -Mt 25:7 SBL cites RP as reading ἀυτῶν, when the accentuation should be αὐτῶν.
 -Mt 26:60 SBL indexes the variant in this verse as occurring in 26:60-61, but in SBL, it only occurs in 26:60 (it does, however, overlap with the verse boundary as it is placed in RP).
 -Mt 27:24 SBL does not capitalize the word at the beginning of a paragraph.
--Mk 1:1 SBL incorrectly cites RP as reading υἱοῦ τοῦ θεοῦ; it actually reads χριστοῦ υἱοῦ τοῦ θεοῦ (the apparatus should have a preceeding "+").
+-Mk 1:1 SBL incorrectly cites RP as reading υἱοῦ τοῦ θεοῦ; it actually reads χριστοῦ υἱοῦ τοῦ θεοῦ (the apparatus should have a preceding "+").
 -Mk 1:13 SBL incorrectly cites RP as reading τεσσεράκοντα; it actually reads τεσσαράκοντα.
 -Mk 3:19 (3:20 SBL) SBL incorrectly cites RP as reading ἔρχεται; it actually reads ἔρχονται.
 -Mk 4:37 SBL cites RP as reading γεμίζεσθα; it actually reads γεμίζεσθαι.
@@ -30,11 +30,12 @@
 -Jn 4:21 SBL cites RP as reading πίστευέ; it actually reads πίστευσόν.
 -Jn 5:10 SBL cites RP as reading κράβαττον; it actually reads κράββατον.
 -Jn 6:44 SBL cites RP as reading ἐμέ and Treg as reading με; RP actually reads με, and Treg actually reads ἐμέ.
--Jn 8:29 SBL cites RP as reading ὁ πατήρ; RP actually reads μόνον ὁ πατήρ (the apparatus should have a preceeding "+").
+-Jn 8:29 SBL cites RP as reading ὁ πατήρ; RP actually reads μόνον ὁ πατήρ (the apparatus should have a preceding "+").
 -Jn 8:41 SBL cites RP as reading Εἶπαν; it actually reads Εἶπον.
 -Jn 10:13 SBL cites the first word of the RP reading as Ὁδὲ; it should be Ὁ δὲ.
 -Jn 10:32 SBL cites RP as reading λιθάζετε ἐμὲ; it actually reads λιθάζετέ με.
 -Jn 14:16 SBL cites RP as reading ᾖ μένῃ; it actually reads μένῃ (so the "+" should be removed from the RP reading).
+-Jn 16:32 SBL cites RP as reading νῦν; it actually reads καὶ νῦν (the apparatus should have a preceding "+")
 -Ac 4:9 SBL marks a textual variant at the final σέσωσται in the text, but does not record any corresponding variation in the apparatus. All of the cited editions appear to agree here.
 -Ac 5:19 SBL cites Treg RP as reading ἤνοιξε; Treg RP actually read ἤνοιξεν.
 -Ac 7:22 SBL cites RP as reading Μωϋσῆς; it actually reads Μωσῆς.
