@@ -1,5 +1,5 @@
 # sblgnt-tei
-TEI XML transcriptions of the text and apparatus of the _SBL Greek New Testament_
+TEI XML and USFM transcriptions of the text and apparatus of the _SBL Greek New Testament_
 
 ## About This Project
 While the Society of Biblical Literature and Logos Bible Software have generously made the _SBL Greek New Testament_ (SBLGNT) freely available in various formats at https://sblgnt.com/ and more recently at https://github.com/LogosBible/SBLGNT/, at the time of this writing, most of these formats present the main text and textual apparatus of the edition in separate files, so that anyone who wants to convert the edition starting from one of these formats must do so separately for the text and apparatus or find some way to combine them in the conversion. In fact, this project arose as a stepping stone in my own effort to convert the SBLGNT to Unified Standard Format Markers (USFM) format.
@@ -11,5 +11,7 @@ Because a few textual variants in the SBLGNT overlap with verse boundaries, I ha
 - A stricter encoding based on the CapiTainS guidelines (http://capitains.org/pages/guidelines) is also available in the `xml/sblgnt_tei_capitains.xml` file. In this encoding, titles, chapters, and verses are rendered hierarchically as `<div/>`s of type `"incipit"`, `"chapter"`, or `"verse"`, and for each division, its text is rendered in an `<ab/>` element beneath it. Paragraphs in this encoding are rendered as flat `<lb/>` elements with `rend="indent"`. Finally, `<app/>` elements are rendered as usual, but those that would otherwise overlap a chapter or verse division have been divided and assigned `xml:id` and `prev` or `next` attributes to allow for the divided portions to be linked.
 
 I have noted and corrected a number of errors in the text and apparatus of the SBLGNT that are, as of the time of this writing, still current in the files available on the SBLGNT website. These errors and their corrections are noted in the `SBL_Errata.txt` file; in the XML files, the elements I have changed are marked with `resp="#JJM"`.
+
+I have also included the USFM files generated from the "simple" encoding of the TEI XML collation, as well as the Python scripts I used to perform the conversion.
 
 The SBLGNT has recently been relicensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/), so this project is now available under the same license; this is now reflected in the TEI XML files and in the `LICENSE` file in this repository.

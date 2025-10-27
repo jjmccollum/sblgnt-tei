@@ -1,0 +1,1 @@
+python py\convert_tei_to_usfm.py xml\sblgnt_tei.xml
